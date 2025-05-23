@@ -16,7 +16,8 @@ This project is useful for testing or debugging **STM32H7-based RTC (Real-Time C
 ## Usage
 
 1. Build the project with Visual Studio 2022.
-2. Run the program ¡V it will send the current timestamp via UDP.
+2. Run the program Â¡V it will send the current timestamp via UDP.
 
 ## Example Output
 
+![Demo Screenshot](demo1.png)
