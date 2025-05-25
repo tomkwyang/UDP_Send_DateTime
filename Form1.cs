@@ -68,5 +68,10 @@ namespace UDP_Send_DateTime
             }
             txtMsg.Text = msg;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
